@@ -22,19 +22,19 @@ export const Header = ({ isMobile, menuIsOpen, setMenuIsOpen }: Props) => {
                 <nav className="sm:absolute sm:left-0 sm:top-[100px] sm:bg-black sm:w-full sm:h-full sm:z-10">
                     <ol className="text-white flex gap-10 sm:flex-col sm:gap-0 sm:text-[#E1E1E6]">
                         <li className="transition-all hover:font-bold sm:px-10 sm:py-5 sm:border-b-[1px] border-[#333] sm:hover:border-l-4 sm:hover:border-l-[#8257E5]">
-                            <a>Home</a>
+                            <a href=''>Home</a>
                         </li>
                         <li className="transition-all hover:font-bold sm:px-10 sm:py-5 sm:border-b-[1px] border-[#333] sm:hover:border-l-4 sm:hover:border-l-[#8257E5]">
-                            <a>Recompensas</a>
+                            <a href=''>Recompensas</a>
                         </li>
                         <li className="transition-all hover:font-bold sm:px-10 sm:py-5 sm:border-b-[1px] border-[#333] sm:hover:border-l-4 sm:hover:border-l-[#8257E5]">
-                            <a>Gift Cards</a>
+                            <a href=''>Gift Cards</a>
                         </li>
                         <li className="transition-all hover:font-bold sm:px-10 sm:py-5 sm:border-b-[1px] border-[#333] sm:hover:border-l-4 sm:hover:border-l-[#8257E5]">
-                            <a>Menu</a>
+                            <a href=''>Menu</a>
                         </li>
                         <li className="transition-all hover:font-bold sm:px-10 sm:py-5 sm:border-b-[1px] border-[#333] sm:hover:border-l-4 sm:hover:border-l-[#8257E5]">
-                            <a>Lojas</a>
+                            <a href=''>Lojas</a>
                         </li>
                     </ol>
                 </nav>
