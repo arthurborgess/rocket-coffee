@@ -1,6 +1,6 @@
 # Rocket Coffee
 
-## A simple SPA using ReactJS TypeScript and Tailwind CSS
+## A simple SPA using ReactJS, TypeScript and Tailwind CSS
 ### Try it out: [Rocket Coffee](https://animated-faloodeh-957336.netlify.app/)
 
 ### Layout credits: [Rocketseat](https://www.rocketseat.com.br/)
