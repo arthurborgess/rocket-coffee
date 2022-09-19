@@ -7,12 +7,12 @@ export const Background = () => {
             <img
                 src={rightTopBlur}
                 alt="Blur"
-                className="w-[900px] h-[900px] absolute top-0 right-0"
+                className="w-[900px] h-[900px] absolute top-0 right-0 sm:hidden"
             />
             <img
                 src={leftBottomBlur}
                 alt="Blur"
-                className="w-[900px] h-[900px] absolute bottom-0 left-0"
+                className="w-[900px] h-[900px] absolute bottom-0 left-0 sm:bottom-[-30%]"
             />
         </div>
     )

@@ -8,6 +8,10 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: ['Manrope', 'sans-serif']
+    },
+    screens: {
+      'sm': { 'max': '900px' },
+      'lg': { 'min': '901px'}
     }
   },
   plugins: [],
